@@ -2,8 +2,8 @@
 
 Git commands
 - add: add a file to be tracked
-- commit: TODO
-- log: TODO
+- commit: adds the changes to the files
+- log: Shows all prior commits
 - status: TODO
 - branch: TODO
 - checkout: TODO

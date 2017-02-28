@@ -7,7 +7,7 @@ Git commands
 - status: TODO
 - branch: TODO
 - checkout: TODO
-- push: TODO
+- push: uploads your changes to the remote repository
 - pull: TODO
 - merge: TODO
 - fetch: TODO

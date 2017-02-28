@@ -7,10 +7,10 @@ Git commands
 - status: TODO
 - branch: creates a new branch
 - checkout: TODO
-- push: TODO
+- push: uploads your changes to the remote repository
 - pull: TODO
+- fetch: downloads changes from remote repository but does not merge with local copy
 - merge: Join two or more development histories together
-- fetch: TODO
 - remote: point to an online repository that we can use to update our local repository
 - reset: TODO
 - revert: TODO

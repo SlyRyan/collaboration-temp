@@ -1,7 +1,7 @@
 # Study Guide
 
 Git commands
-- add: TODO
+- add: add a file to be tracked
 - commit: TODO
 - log: TODO
 - status: TODO

@@ -10,7 +10,7 @@ Git commands
 - push: uploads your changes to the remote repository
 - pull: TODO
 - merge: TODO
-- fetch: TODO
+- fetch: downloads changes from remote repository but does not merge with local copy
 - remote: TODO
 - reset: TODO
 - revert: TODO

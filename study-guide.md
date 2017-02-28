@@ -4,7 +4,7 @@ Git commands
 - add: TODO
 - commit: TODO
 - log: TODO
-- status: TODO
+- status: Show the working tree status
 - branch: TODO
 - checkout: TODO
 - push: TODO

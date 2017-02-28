@@ -9,7 +9,7 @@ Git commands
 - checkout: TODO
 - push: TODO
 - pull: TODO
-- merge: TODO
+- merge: Join two or more development histories together
 - fetch: TODO
 - remote: point to an online repository that we can use to update our local repository
 - reset: TODO
